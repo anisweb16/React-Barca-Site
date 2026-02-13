@@ -1,0 +1,39 @@
+/* NAVBAR BACKGROUND */
+.fcb-navbar {
+  background: linear-gradient(90deg, #004d98, #a50044);
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+/* LOGO EXACT DIMENSIONS DEMANDÉES */
+.logo-fcb {
+  width: 130px;
+  height: 120px;
+  object-fit: contain;
+}
+
+/* TEXTE MARQUE */
+.brand-text {
+  color: white;
+}
+
+.brand-title {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.brand-subtitle {
+  font-size: 14px;
+  opacity: 0.85;
+}
+
+/* LIENS NAVBAR */
+.navbar .nav-link {
+  color: white !important;
+  font-weight: 500;
+  margin-left: 10px;
+}
+
+.navbar .nav-link:hover {
+  color: #edbb00 !important;
+}
